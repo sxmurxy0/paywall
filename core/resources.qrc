@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource>
+    <file alias="public.pem">resources/public.pem</file>
+    <file alias="lock.ico">resources/lock.ico</file>
+  </qresource>
+</RCC>
